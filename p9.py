@@ -1,0 +1,7 @@
+print(int(input(a))
+print(int(input(b))
+print(int(input(c))
+root1=(-b+(((b*b)+(b**2-4*a*c)*0.5)/2*a))
+print(root1)
+root1=(-b+(((b*b)-(b**2-4*a*c)*0.5)/2*a))
+print(root1)
