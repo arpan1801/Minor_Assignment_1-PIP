@@ -1,0 +1,3 @@
+# Minor_Assignment_1-PIP
+# These are the Python codes of My first Python Programming assignment.
+# Check this out to have a brief understanding about Python programming language......
